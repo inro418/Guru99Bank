@@ -1,0 +1,4 @@
+[INFO ] 2020-12-05 04:24:44.032 [main] Log4JFile - This is an info message
+[WARN ] 2020-12-05 04:24:44.037 [main] Log4JFile - This is a warning message
+[ERROR] 2020-12-05 04:24:44.037 [main] Log4JFile - This is an error message
+[FATAL] 2020-12-05 04:24:44.038 [main] Log4JFile - This is a fatal message

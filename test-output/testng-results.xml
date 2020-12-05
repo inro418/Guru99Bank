@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="393648" started-at="2020-12-05T04:43:36Z" finished-at="2020-12-05T04:50:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="393648" started-at="2020-12-05T04:43:36Z" finished-at="2020-12-05T04:50:10Z">
+      <class name="utils.ExtentReportsResult">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:utils.ExtentReportsResult@7bedc48a]" name="LoginTest" duration-ms="16341" started-at="2020-12-05T04:49:54Z" finished-at="2020-12-05T04:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- utils.ExtentReportsResult -->
+      <class name="utils.ExcelDataProvider">
+        <test-method status="PASS" signature="setUpLoginTest()[pri:0, instance:utils.ExcelDataProvider@41a2befb]" name="setUpLoginTest" is-config="true" duration-ms="8397" started-at="2020-12-05T04:43:36Z" finished-at="2020-12-05T04:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLoginTest -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@41a2befb]" name="test1" duration-ms="105013" started-at="2020-12-05T04:44:50Z" data-provider="test1data" finished-at="2020-12-05T04:46:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr297516]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UnUjesy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@41a2befb]" name="test1" duration-ms="43462" started-at="2020-12-05T04:46:35Z" data-provider="test1data" finished-at="2020-12-05T04:47:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr297517]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UnUjesy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@41a2befb]" name="test1" duration-ms="94348" started-at="2020-12-05T04:47:18Z" data-provider="test1data" finished-at="2020-12-05T04:48:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr297516]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UnUjesi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:utils.ExcelDataProvider@41a2befb]" name="test1" duration-ms="60376" started-at="2020-12-05T04:48:53Z" data-provider="test1data" finished-at="2020-12-05T04:49:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr287615]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Unljesu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- utils.ExcelDataProvider -->
+      <class name="utils.Screenshots">
+        <test-method status="PASS" signature="CaptureScreenshot()[pri:0, instance:utils.Screenshots@6c40365c]" name="CaptureScreenshot" duration-ms="51942" started-at="2020-12-05T04:43:45Z" finished-at="2020-12-05T04:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- utils.Screenshots -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
